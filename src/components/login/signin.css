@@ -1,0 +1,12 @@
+.capsule-btn {
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-right: 20px !important;
+	padding-left: 20px !important;
+	border-radius: 500px !important;
+	background-color: orange !important;
+	color:red;
+}
+.cursor-pointer{
+    cursor: pointer;
+  }
